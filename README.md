@@ -4,7 +4,7 @@
 
 # Tutorial de Aplicación de Venta de Viajes en JavaScript
 
-Link para ver resultado: [VENTA VIAJES FINALIZADO](https://venta-viajes-curso-javascript.netlify.app/)
+Link para ver resultado: [VENTA VIAJES FINALIZADO](https://dashboard-viajes-javascript.netlify.app)
 
 Este es un tutorial que te guiará a través del proceso de creación de una aplicación de venta de viajes utilizando JavaScript. La aplicación mostrará información sobre diferentes ciudades turísticas y sus precios asociados.
 
